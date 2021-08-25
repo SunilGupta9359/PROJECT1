@@ -3,5 +3,5 @@ Weather sensors are collecting weather information across the globe in a large v
 This weather data is semi-structured and record-oriented.
 This data is stored in a line-oriented ASCII format, where each row represents a single record. 
 Each row has lots of fields like longitude, latitude, daily max-min temperature, daily average temperature, etc.
-for easiness, we will focus on the main element, i.e. temperature. We will use the data from the National Centres for Environmental Information(NCEI).
+for easiness, I will focus on the main element, i.e. temperature. I will use the data from the National Centres for Environmental Information(NCEI).
 It has a massive amount of historical weather data that we can use for our data analysis.
