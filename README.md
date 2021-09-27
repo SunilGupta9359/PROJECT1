@@ -1,4 +1,5 @@
-# PROJECT1
+# WEATHER DATA ANALYSIS USING HIVE AND HDFS
+
 ## PROJECT DESCRIPTION
 * Here I will write a Hive program for analyzing weather datasets to understand its data processing programming model. 
 * Weather sensors are collecting weather information across the globe in a large volume of log data. 
